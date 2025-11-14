@@ -42,6 +42,11 @@ This **interactive Power BI dashboard** presents insights into **Pizza Sales** u
 * **Quantity per order** and **Average Order Value** by month.
 
 ---
+## 📸 Dashboard Screen Short
+
+![Dashboard Preview](PowerBI-Reporting.PNG)
+
+---
 
 ## 📁 Provided Dataset Files
 
